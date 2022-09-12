@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yatindra Krishna</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img aligin="right" alt="coding" width="400" scr="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatindra-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="yatindra-krishna" /> </p>
 
