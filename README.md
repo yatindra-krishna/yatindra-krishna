@@ -27,7 +27,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/yatindra-krishna/count.svg?"  />
 </div>
-
-<img src="https://raw.githubusercontent.com/yatindra-krishna/yatindra-krishna/output/snake.svg" alt="Snake animation" />
-
-###
